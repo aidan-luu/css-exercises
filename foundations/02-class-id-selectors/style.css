@@ -1,0 +1,20 @@
+.bruh {
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+    background: red, pink;
+}
+
+#pluh {
+    color: blue;
+    font-size: 36px;
+}
+
+.bruh,
+.cluh {
+    font-size: 24px;
+}
+
+#gluh {
+    background: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
